@@ -112,7 +112,6 @@ namespace IterationBonusExercise
 
             Console.WriteLine("It's time to memorize your multiplication tables. Give me a number and I'll tell you its multiples up to 12!");
             DisplayMultiplicationTable();
-            Console.ReadLine();
         }
     }
 }

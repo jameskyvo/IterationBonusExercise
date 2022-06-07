@@ -1,0 +1,8 @@
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\bin\Debug\IterationBonusExercise.exe.config
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\bin\Debug\IterationBonusExercise.exe
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\bin\Debug\IterationBonusExercise.pdb
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\obj\Debug\IterationBonusExercise.csproj.AssemblyReference.cache
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\obj\Debug\IterationBonusExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\obj\Debug\IterationBonusExercise.csproj.CoreCompileInputs.cache
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\obj\Debug\IterationBonusExercise.exe
+C:\Users\plant\repos\IterationBonusExercise\IterationBonusExercise\obj\Debug\IterationBonusExercise.pdb
